@@ -1,0 +1,4 @@
+# Ignore Firebase config file
+firebase-config.json
+
+firebase-website.js
